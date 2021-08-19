@@ -9,8 +9,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="user-service" />
         <module name="department-service" />
-        <module name="cloud-gateway" />
         <module name="service-registry" />
+        <module name="cloud-gateway" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
