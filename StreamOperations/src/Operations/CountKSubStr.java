@@ -13,6 +13,8 @@ public class CountKSubStr
         // Initialize result
         int res = 0;
 
+        str.s
+
         int loopCount = 0;
 
         int n = str.length();
@@ -36,6 +38,7 @@ public class CountKSubStr
                 loopCount++;
                 // If this is a new character for this
                 // substring, increment dist_count.
+                System.out.println(str.charAt(j)+" "+(str.charAt(j) - 'a'));
                 if (cnt[str.charAt(j) - 'a'] == 0)
                     dist_count++;
 

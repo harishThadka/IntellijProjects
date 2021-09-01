@@ -1,0 +1,103 @@
+1. Given an array, print all the elements whose frequency is one, that is they do not have duplicates. 
+Example: Array = [-1, -2, 3, 3, -2] Output = -1
+
+2.For a given input 2D array of strings, find the maximum average grade, round off to the nearest floor integer.
+
+Input :   String[][] scores= {  {"Rohit", "85"},
+                                {"Rahul", "80"},
+                                {"Amit","85"},
+                                {"Rohit", "90"}  }
+
+Output : 87
+Logic : Rohit's average grade is (85+90)/2 = 87.5  which when rounded off to floor is  87
+
+3. Given an unsorted array A of size N, find a continuous sub-array which  sums up to S.
+For example if the input array is [ -12,7,29,6, 2, 11,4,8] and the  expected sum is 8,
+ then there are two possibilities [6,2] and [8]
+if the expected sum is 19 there are two possibilites [12,7] and [6,2,11].  [11,8] is not a possibility since its not continous.
+
+4.Given three integer arrays arr1, arr2 and arr3 sorted in strictly increasing order, return a sorted array of only the integers that 
+appeared in all three arrays in O(n). Make sure the time complexity is met.
+
+Example 1:
+Input: arr1 = [1,2,3,4,5], arr2 = [1,2,5,7,9], arr3 = [1,3,4,5,8]
+Output: [1,5]
+Explanation: Only 1 and 5 appeared in the three arrays.
+
+5. Given two sorted arrays, the task is to merge them in a sorted manner .
+Example:1
+Input: arr1[] = { 1, 3, 4, 5}, arr2[] = {2, 4, 6, 8}
+Output: arr3[] = {1, 2, 3, 4, 4, 5, 6, 8}
+Example 2:
+Input: arr1[] = { 3,7,9,12,21}, arr2[] = {6,8,15,18,27}
+Output: arr3[] = {3,6,7,8,9,12,15,18,21,27}
+Example 3:
+Input: arr1[] = { 3,7,9,-12,21,12}, arr2[] = {6,8,15,-18,27}
+Output: arr3[] = {-18,-12,3,6,7,8,9,12,1521,27}
+Time complexity: O(n1+n2) where n1 and n2 are size of each array.
+
+
+6. long dotProduct( int[] array1, int[] array2 )
+   *
+   * Given two arrays of integers, returns the dot product of the arrays
+
+7. . countLengthOfCycle(arr, startIndex)
+   *
+   * You are given an integer array of size N. 
+   * Every element of the array is greater than or equal to 0.
+   * Starting from arr[startIndex], follow each element to the index it points to. 
+   * Continue to do this until you find a cycle. 
+   * Return the length of the cycle. If no cycle is found return -1
+   *
+   * Examples:
+   * countLengthOfCycle([1, 0], 0) == 2
+   * countLengthOfCycle([1, 2, 0], 0) == 3
+
+8. Given a list of words, group them by anagrams
+ i/p: List of "cat","dog", "god"
+ o/p: A set of sets of Anagrams: {{"cat"},{"dog","god"}}
+
+9.List of Integer let say {9,7,4,30} , concatenate each element and find out the maximum number.
+
+10.Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it is able to trap after raining.
+
+Examples:  
+
+Input: arr[]   = {2, 0, 2}
+Output: 2
+
+11.Given an array arr[] of distinct integers from 1 to N. The task is to find the minimum number of swaps required to sort the array.
+Example:
+
+Input: arr[] = { 7, 1, 3, 2, 4, 5, 6 }
+Output: 5
+Explanation:
+i           arr             swap (indices)
+0   [7, 1, 3, 2, 4, 5, 6]   swap (0, 3)
+1   [2, 1, 3, 7, 4, 5, 6]   swap (0, 1)
+2   [1, 2, 3, 7, 4, 5, 6]   swap (3, 4)
+3   [1, 2, 3, 4, 7, 5, 6]   swap (4, 5)
+4   [1, 2, 3, 4, 5, 7, 6]   swap (5, 6)
+5   [1, 2, 3, 4, 5, 6, 7]
+Therefore, total number of swaps = 5
+
+Input: arr[] = { 2, 3, 4, 1, 5 }
+Output: 3
+
+12. Given an array arr[] of size N, the task is to find the number of distinct pairs in the array whose sum is > 0.
+
+Examples:
+
+ Input: arr[] = { 3, -2, 1 }
+Output: 2
+Explanation:
+There are two pairs of elements in the array whose sum is positive. They are:
+{3, -2} = 1
+{3, 1} = 4
+
+Input: arr[] = { -1, -1, -1, 0 }
+Output: 0
+Explanation:
+There are no pairs of elements in the array whose sum is positive. 
+
+

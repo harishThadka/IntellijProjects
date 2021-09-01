@@ -1,0 +1,30 @@
+1) Minimum distance between 2 words counting the number of characters from middle of both words.
+ E.g. ABC is XYZ and ABC & XYZ are two distinct words. Minimum distance between ABC and XYZ
+
+2) First unique character of a string. E.g. aabdcce . Output : d
+
+3) Largest substring with unique(without repeating) characters e.g. aaabcbdeaf Output : cbdeaf
+longest substring with atleast k repeating charcters
+longest substring with atmost k distinct characters
+
+4) Running Length encoding of a Strings
+	i/p: aabbccaaa  o/p: a2b2c2a3
+	
+5) Max occurance of a charecter in the String with index and its max count
+		i/p: aabbbbbbbbbbccccc o/p: char='b' index=2 count=10
+
+6)Program to print smallest and biggest possible palindrome word in a given string
+
+7)Missing characters to make a string Pangram
+
+8)determine whether two strings are the anagram
+i/p: String str1="Brag";  
+        String str2="Grab";  
+0/p: true		
+		
+
+9)determine whether one string is a rotation of another
+i/p: String 1: abcde   String 2: deabc  
+o/p: Second string is a rotation of first string
+
+10)	Reserve a string in Java without using reverse function	
