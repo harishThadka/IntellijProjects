@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ca58eb58-6b7f-4d59-9cb6-08a8279b6bfe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Assignement2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignement2/src/assignment2/CommonElementsArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Assignement2/src/assignment2/ContinuousSubArraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EmployeeService/src/main/java/com/example/employeeservice/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EmployeeService/src/main/java/com/example/employeeservice/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EmployeeService/src/main/java/com/example/employeeservice/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EmployeeService/src/test/java/com/example/employeeservice/EmployeeControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/microservices/apigateway/ApiGatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/microservices/apigateway/ApiGatewayConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/demo/microservices/apigateway/LoggingFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/demo/microservices/apigateway/ApiGatewayApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-service/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-service/src/main/java/com/demo/microservices/currencyconversionservice/CurrencyConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-service/src/main/java/com/demo/microservices/currencyconversionservice/CurrencyConversionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-service/src/main/java/com/demo/microservices/currencyconversionservice/CurrencyConversionServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-service/src/main/java/com/demo/microservices/currencyconversionservice/CurrencyExchangeProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-conversion-service/src/test/java/com/demo/microservices/currencyconversionservice/CurrencyConversionServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-exchange-services/currency-exchange-service/src/main/java/com/demo/microservices/currencyexchangeservice/CircuitBreakerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-exchange-services/currency-exchange-service/src/main/java/com/demo/microservices/currencyexchangeservice/CurrencyExchange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-exchange-services/currency-exchange-service/src/main/java/com/demo/microservices/currencyexchangeservice/CurrencyExchangeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-exchange-services/currency-exchange-service/src/main/java/com/demo/microservices/currencyexchangeservice/CurrencyExchangeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-exchange-services/currency-exchange-service/src/main/resources/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../naming-server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../naming-server/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../naming-server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../naming-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../naming-server/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../naming-server/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../naming-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../naming-server/src/main/java/com/demo/microservices/namingserver/NamingServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../naming-server/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../naming-server/src/test/java/com/demo/microservices/namingserver/NamingServerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../urls.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignement2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignement2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assignement2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignement2/src/assignment2/FrequencyArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assignement2/src/assignment2/FrequencyArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignement2/src/assignment2/MaxAvgGrade.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assignement2/src/assignment2/MaxAvgGrade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assignment1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assignment1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assignment1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DSAProblems/src/dsa/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DSAProblems/src/dsa/MainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restful-web-services/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restful-web-services/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restful-web-services/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restful-web-services/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restful-web-services/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restful-web-services/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restful-web-services/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restful-web-services/src/main/java/com/example/restfulwebservices/RestfulWebServicesApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restful-web-services/src/main/java/com/example/restfulwebservices/UserCommandLineRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restful-web-services/src/main/java/com/example/restfulwebservices/exception/CustomizedExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restful-web-services/src/main/java/com/example/restfulwebservices/exception/ExceptionResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restful-web-services/src/main/java/com/example/restfulwebservices/filtering/FilteringController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restful-web-services/src/main/java/com/example/restfulwebservices/filtering/SomeBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restful-web-services/src/main/java/com/example/restfulwebservices/post/Post.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restful-web-services/src/main/java/com/example/restfulwebservices/post/PostRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restful-web-services/src/main/java/com/example/restfulwebservices/user/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restful-web-services/src/main/java/com/example/restfulwebservices/user/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restful-web-services/src/main/java/com/example/restfulwebservices/user/UserNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restful-web-services/src/main/java/com/example/restfulwebservices/user/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restful-web-services/src/main/java/com/example/restfulwebservices/user/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restful-web-services/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restful-web-services/src/main/resources/data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../restful-web-services/src/test/java/com/example/restfulwebservices/RestfulWebServicesApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1xk56nr1kxdQ4G1jJPLZmzmTLXW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="api-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.demo.microservices.apigateway.ApiGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca58eb58-6b7f-4d59-9cb6-08a8279b6bfe" name="Changes" comment="" />
+      <created>1630886076249</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630886076249</updated>
+      <workItem from="1630886078240" duration="4066000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

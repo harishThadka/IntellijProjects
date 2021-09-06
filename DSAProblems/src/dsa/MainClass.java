@@ -8,7 +8,7 @@ import java.util.stream.IntStream;
 public class MainClass {
 
     public static void main(String[] args) {
-        
+
 
         int result = IntStream.rangeClosed(1,10).reduce(1,(a,b)-> a+b);
 

@@ -2,7 +2,7 @@ package assignment2;
 
 import java.util.*;
 
-public class MaxAvgGrade {
+public class  MaxAvgGrade {
 
 //    2.For a given input 2D array of strings, find the maximum average grade, round off to the nearest floor integer.
 

@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.stream.Collectors;
 
-public class FrequencyArray {
+public class  FrequencyArray {
 
 //    1. Given an array, print all the elements whose frequency is one, that is they do not have duplicates.
     public static void main(String[] args) {
