@@ -13,7 +13,7 @@ public class CountKSubStr
         // Initialize result
         int res = 0;
 
-        str.s
+
 
         int loopCount = 0;
 

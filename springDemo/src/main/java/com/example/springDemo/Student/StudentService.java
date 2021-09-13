@@ -45,31 +45,31 @@ public class StudentService {
         studentRepository.deleteById(studentId);
     }
 
-    @Transactional
-    public Student updateStudent(Long studentId, String name, String email){
-
-        Student student = studentRepository.findById(studentId).orElseThrow(()->{
-            throw new IllegalStateException("Student with Id:"+studentId+" does not exists");
-        });
-
-        if(name != null && name.length() > 0 &&  !Objects.equals(student.getName(),name)){
-            student.setName(name);
-        }
-
-        if(email !=null && email.length()>0 && !Objects.equals(student.getEmail(),email)){
-
-            Optional<Student> optionalStudent = studentRepository.findStudentByEmail(email);
-
-            if(optionalStudent.isPresent()){
-                throw new IllegalStateException("Email already taken");
-            }
-
-            student.setEmail(email);
-
-        }
-
-        return student;
-
-
-    }
+//    @Transactional
+//    public Student updateStudent(Long studentId, String name, String email){
+//
+//        Student student = studentRepository.findById(studentId).orElseThrow(()->{
+//            throw new IllegalStateException("Student with Id:"+studentId+" does not exists");
+//        });
+//
+//        if(name != null && name.length() > 0 &&  !Objects.equals(student.getName(),name)){
+//            student.setName(name);
+//        }
+//
+//        if(email !=null && email.length()>0 && !Objects.equals(student.getEmail(),email)){
+//
+//            Optional<Student> optionalStudent = studentRepository.findStudentByEmail(email);
+//
+//            if(optionalStudent.isPresent()){
+//                throw new IllegalStateException("Email already taken");
+//            }
+//
+//            student.setEmail(email);
+//
+//        }
+//
+//        return student;
+//
+//
+//    }
 }
