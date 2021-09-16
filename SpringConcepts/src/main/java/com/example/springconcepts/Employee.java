@@ -20,9 +20,9 @@ public class Employee {
 
     private static Logger logger = LoggerFactory.getLogger(Employee.class);
 
-public Employee(){
-    logger.info("Bean getting Initialised");
-}
+    public Employee(){
+        logger.info("Bean getting Initialised");
+    }
     public long getId() {
         return id;
     }
