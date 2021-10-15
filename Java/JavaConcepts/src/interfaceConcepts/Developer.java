@@ -23,6 +23,7 @@ public class Developer implements Employee_Interface{
 
     }
 
+
     public static void staticPrint(){
         System.out.println("Static Developer Class");
     }
