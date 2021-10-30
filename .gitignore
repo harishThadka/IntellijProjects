@@ -2,4 +2,6 @@
 *.idea
 **/.mvn
 *.mvn
-**/out/**
+**/out
+**/.idea
+**/target
